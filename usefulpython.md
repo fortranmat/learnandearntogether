@@ -19,3 +19,6 @@ Mopidy-Dirble ~= 1.1        # Compatible release. Same as >= 1.1, == 1.*
 package >= 1.0, <=2.0 
 >,>=,<,<=,==,!= etc
 
+# SELECT INTERPTER IN VSCODE
+just copy the path and add \python.exe like D:\python\folderpackname\Scripts\python.exe <br/>
+
