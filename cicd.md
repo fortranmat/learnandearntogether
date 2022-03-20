@@ -29,6 +29,10 @@
 |---|---|
 |:heavy_check_mark:click commits<br/>:heavy_check_mark:choose any commit ```<>``` as yoy wish<br/>:heavy_check_mark: THen click git tree enter branch name in Find or create branch Then click<br/>:heavy_check_mark:click git branches <br/>:heavy_check_mark: select 🔄again select 🔄 choose 🔽 to select perticular branch as default<br/>| :heavy_check_mark: Android -->new-->Project From Version control<br/> :heavy_check_mark: choose Github <br/> :heavy_check_mark: select Repo<br/>:heavy_check_mark: as already default branch changed so as per defualt that branch will be loaded|
 
+#### 🔯PULL /MERGE/CHECKOUT
+|Android Studio| Github|
+|---|---|
+|:heavy_check_mark:menu-->VCS-->Share Project on Github<br/>:heavy_check_mark:menu-->GIt-->branches/newbranch create new branch<br/>:heavy_check_mark:whatever change commit and push will goto that new branch<br/>:heavy_check_mark:create as much as branch or keep all changes in one branch<br/>:x:goto menu-->git-->choose branch--> ▶️select checkout:heavy_check_mark:Thiswill make revoke option git to VCS as fresh one<br/>:heavy_check_mark:if imported from VCS then menu-->git-->branches--> ▶️selct checkout will not revoke to vcs<br/> |:heavy_check_mark:github you will see 2 branches <br/>:heavy_check_mark:goto second branch <br/>:heavy_check_mark:create pull request<br/>:heavy_check_mark:merge pull request<br/>:heavy_check_mark:confirm merge<br/>:heavy_check_mark:OPTIONAL you can delete branch in github<br/>:x:it wont delete in local|
 
 
 
