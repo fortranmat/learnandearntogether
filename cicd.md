@@ -52,6 +52,11 @@ click next<br/>
 choose or verify the aab path and select build variant<br/>
 click Finish<br/>
 
+#### 🔯App sigining Methods
+|Method-1(studio-keyfile in local folder)|Method-2|Method-3|
+|---|---|---|
+|Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>|||
+
 
 
 
