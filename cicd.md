@@ -57,7 +57,7 @@ BEFORE Aug 2021 -- Only Singing Key if Key lost NO UPDATE
 AFTER Aug 2021 -- Upload Key and Signing Key if key lost you can reset REquset for upload key reset
 |Method-1(studio-keyfile in local folder)|Method-2(studio-password alias entered)|Method-3|
 |---|---|---|
-|Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>| 🧑‍🎨 studio-->projects-->app(RIGHT CLICK) <br/>select open module s<br/>Select Tab signinconfig press +<br/> add jks path<br> enter alias and password <br/>Select Default config Tab<br/>under signinconfig choose the one created above step||
+|Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>| 🧑‍🎨 studio-->projects-->app(RIGHT CLICK) <br/>select open module s<br/>Select Tab signinconfig press +<br/> add jks path<br> enter alias and password <br/>Select Buildvarient<br/>select Buildtype TAB<Br/>Underr signinconfig choose signinname<br/>Sudio-->Build-->Select Build varient<br/>Studio-->build-->buildbundle 😄||
 
 
 
