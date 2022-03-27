@@ -34,7 +34,7 @@
 |---|---|
 |:heavy_check_mark:menu-->VCS-->Share Project on Github<br/>:heavy_check_mark:menu-->GIt-->branches/newbranch create new branch<br/>:heavy_check_mark:whatever change commit and push will goto that new branch<br/>:heavy_check_mark:create as much as branch or keep all changes in one branch<br/>:x:goto menu-->git-->choose branch--> ▶️select checkout:heavy_check_mark:Thiswill make revoke option git to VCS as fresh one<br/>:heavy_check_mark:if imported from VCS then menu-->git-->branches--> ▶️selct checkout will not revoke to vcs<br/> |:heavy_check_mark:github you will see 2 branches <br/>:heavy_check_mark:goto second branch <br/>:heavy_check_mark:create pull request<br/>:heavy_check_mark:merge pull request<br/>:heavy_check_mark:confirm merge<br/>:heavy_check_mark:OPTIONAL you can delete branch in github<br/>:x:it wont delete in local|
 
-#### 🔯Android APP Signing
+#### 🔯[Android APP Signing](https://developer.android.com/studio/publish/app-signing)
 Whatever METHOD intitial Key Is Required<br/>
 Studio-->Build-->Generate Signed Bundle<br/>
 KeyStorePath-->CHOOSE-->Create New<br/>
@@ -53,9 +53,11 @@ choose or verify the aab path and select build variant<br/>
 click Finish<br/>
 
 #### 🔯App sigining Methods
-|Method-1(studio-keyfile in local folder)|Method-2|Method-3|
+BEFORE Aug 2021 -- Only Singing Key if Key lost NO UPDATE
+AFTER Aug 2021 -- Upload Key and Signing Key if key lost you can reset REquset for upload key reset
+|Method-1(studio-keyfile in local folder)|Method-2(studio-password alias entered)|Method-3|
 |---|---|---|
-|Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>|||
+|Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>| 🧑‍🎨 studio-->projects-->app(RIGHT CLICK) <br/>select open module s<br/>Select Tab signinconfig press +<br/> add jks path<br> enter alias and password <br/>Select Default config Tab<br/>under signinconfig choose the one created above step||
 
 
 
