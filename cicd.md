@@ -55,11 +55,18 @@ click Finish<br/>
 #### 🔯  App sigining Methods
 BEFORE Aug 2021 -- Only Singing Key if Key lost NO UPDATE
 AFTER Aug 2021 -- Upload Key and Signing Key if key lost you can reset REquset for upload key reset
-|Method-1(studio-keyfile in local folder)|Method-2(studio-password alias entered)|Method-3|
+|Method-1(studio-keyfile in local folder)|Method-2(studio-password alias entered)|Method-3(JUST use play cosole to sign)|
 |---|---|---|
-|Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>| 🧑‍🎨 studio-->projects-->app(RIGHT CLICK) <br/>select open module s<br/>Select Tab signinconfig press +<br/> add jks path<br> enter alias and password <br/>Select Buildvarient<br/>select Buildtype TAB<Br/>Underr signinconfig choose signinname<br/>Sudio-->Build-->Select Build varient<br/>Studio-->build-->buildbundle 😄||
+|Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>| 🧑‍🎨 studio-->projects-->app(RIGHT CLICK) <br/>select open module s<br/>Select Tab signinconfig press +<br/> add jks path<br> enter alias and password <br/>Select Buildvarient<br/>select Buildtype TAB<Br/>Underr signinconfig choose signinname<br/>Sudio-->Build-->Select Build varient<br/>Studio-->build-->buildbundle 😄|Actually JKS is upload key file<br/> THis is enough for sign in and upload<br/>After 2021 google play will provide self signin<br/>It needs signed apk aab<br/>Then it will sign benefit if upload jks key missed or password forgot<br/>|
 
-
+#### 🔯 Fastlane
+Fastlane init<br/>
+Provide app name like com.x.y<br/>
+press enter<br/>
+After that goto folder and open APPfile <br/>
+enter the path of playconsolejson key between ""<br/>
+/home/diosdole/AndroidStudioProjects/gcc_play_console/gccplayconsole.json<br/>
+[How To create PLAY console JSON key]()
 
 
 
