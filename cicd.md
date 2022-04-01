@@ -67,6 +67,7 @@ After that goto folder and open APPfile <br/>
 enter the path of playconsolejson key between ""<br/>
 /home/diosdole/AndroidStudioProjects/gcc_play_console/gccplayconsole.json<br/>
 [How To create PLAY console JSON key]()
+fastlane supply init--> WIll fetch all metadata inculing screenshot logo etc<br/>
 
 
 
