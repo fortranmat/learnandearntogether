@@ -69,5 +69,11 @@ enter the path of playconsolejson key between ""<br/>
 [How To create PLAY console JSON key]()<br/>
 fastlane supply init--> WIll fetch all metadata inculing screenshot logo etc<br/>
 
+#### 🔯 Googleplay Console
+Once app get rejeted after completing the tasks send for review<br/>
+review will take upto 7 days officially<br/>
+META data error title description text content error so app rejected<br>
+after update save<br/>
+Then under publishing overview Submit for review<br/>
 
 
