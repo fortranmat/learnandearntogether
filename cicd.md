@@ -60,14 +60,17 @@ AFTER Aug 2021 -- Upload Key and Signing Key if key lost you can reset REquset f
 |Studio-->Build-->Generate Signed Bundle..<br/>😸key store path Select/entre <br/>😸Key store password Enter <br/>😸key alias Enter <br/>😸 key password Enter <br/>AFTER 2022 Update 🧮Export encrypted key for playstore <br/> ✖️for old app its not required<br/>| 🧑‍🎨 studio-->projects-->app(RIGHT CLICK) <br/>select open module s<br/>Select Tab signinconfig press +<br/> add jks path<br> enter alias and password <br/>Select Buildvarient<br/>select Buildtype TAB<Br/>Underr signinconfig choose signinname<br/>Sudio-->Build-->Select Build varient<br/>Studio-->build-->buildbundle 😄|Actually JKS is upload key file<br/> THis is enough for sign in and upload<br/>After 2021 google play will provide self signin<br/>It needs signed apk aab<br/>Then it will sign benefit if upload jks key missed or password forgot<br/>|
 
 #### 🔯 Fastlane
-Fastlane init<br/>
+`fastlane init`<br/>
 Provide app name like com.x.y<br/>
 press enter<br/>
 After that goto folder and open APPfile <br/>
 enter the path of playconsolejson key between ""<br/>
 /home/diosdole/AndroidStudioProjects/gcc_play_console/gccplayconsole.json<br/>
 [How To create PLAY console JSON key]()<br/>
-fastlane supply init--> WIll fetch all metadata inculing screenshot logo etc<br/>
+`fastlane supply init`--> WIll fetch all metadata inculing screenshot logo etc<br/>
+`fastlane supply --skip_upload_changelogs` --> WIll supply all metadata to playconsole --skip_upload_changelogs avoid the numbering app versioncode<br/>
+
+
 
 #### 🔯 Googleplay Console
 Once app get rejeted after completing the tasks send for review<br/>
@@ -75,5 +78,6 @@ review will take upto 7 days officially<br/>
 META data error title description text content error so app rejected<br>
 after update save<br/>
 Then under publishing overview Submit for review<br/>
+
 
 
