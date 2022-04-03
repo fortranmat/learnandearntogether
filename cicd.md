@@ -69,7 +69,7 @@ enter the path of playconsolejson key between ""<br/>
 [How To create PLAY console JSON key]()<br/>
 `fastlane supply init`--> WIll fetch all metadata inculing screenshot logo etc<br/>
 `fastlane supply --skip_upload_changelogs` --> WIll supply all metadata to playconsole --skip_upload_changelogs avoid the numbering app versioncode<br/>
-
+To know more `fastlane supply` vs `fastlane supply init` [click](https://docs.fastlane.tools/actions/supply/)<br/>
 
 
 #### 🔯 Googleplay Console
