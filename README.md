@@ -4,12 +4,14 @@ This Is Public repo
 😺Affiliate Marketing, Adsense, SaaS, Freelancing, Social Media Influencer<br/>
 For the above both method minimum requirement
 
+
 |Method|REquirement|REmarks|
 |---|---|---|
 |Affliate and adsense|😸Website<br/> 😸Android / Apple APPS<br/> 😺YouTube<br/> ➡️Social Media Influencer| ➡️Static or Dynamic Content Website <br/> ➡️ Online or Offline Content app<br> ➡️Vlog or Video<br/>|
 |Saas |Programming Website LIke php mysql|Buy Code from codecanyon|
 |Freelancing| Tech skills|Easy to earn|
 |Social Media Influencer|Via POsting LInks|Same like affiliate but Without AFfiliate signup|
+
 
 |WhereToEarn|HowToEarn|Whattodo|
 |---|---|---|
