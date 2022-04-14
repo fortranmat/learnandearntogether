@@ -1,9 +1,13 @@
 # learn-and-earn-together
 This Is Public repo
 ## How To Earn
-😺YouTube<br/>
-😸Android studio<br/>
-😺Affiliate Marketing & Adsense<br/>
+😺Affiliate Marketing, Adsense, SaaS<br/>
+For the above both method minimum requirement
+|Method|REquirement|REmarks|
+|---|---|---|
+|Affliate and adsense|😺YouTube<br/>😸Android / Apple APPS<br/> 😸Website<br/> | ➡️Static or Dynamic Content Website <br/> ➡️ Online or Offline Content app<br> ➡️Vlog or Video<br/>|
+|Saas |Programming Website LIke php mysql|Buy Code from Here|
+
 
 |WhereToEarn|HowToEarn|Whattodo|
 |---|---|---|
