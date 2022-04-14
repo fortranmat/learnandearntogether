@@ -1,9 +1,8 @@
 # learn-and-earn-together
 This Is Public repo
-## How To Earn
+## How To Earn Online
 😺Affiliate Marketing, Adsense, SaaS, Freelancing, Social Media Influencer<br/>
-For the above both method minimum requirement
-
+For the above method minimum requirement are as follows
 
 |Method|REquirement|REmarks|
 |---|---|---|
