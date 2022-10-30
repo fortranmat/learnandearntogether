@@ -2,8 +2,9 @@
 ### E-mail Marketing
 - [ ] Create Business Email (Any Hosting Provider will give)
 - [ ] Just Enter username and password follow the steps 
-<img src="photos/create-email.png" width="100" height="100"> <img src="photos/create-email.png" width="100" height="100"> <img src="photos/create-email.png" width="100" height="100"> 
+<img src="photos/create-email.png" width="100" height="100"> <img src="photos/generate-email.png" width="100" height="100"> <img src="photos/id_created.png" width="100" height="100"> 
 - [ ] Acess webmail or Addmail in gmail using Details to confighue mail clients such as POP3 IMAP SMTP (port, hostname, ssl refere here)
+<img src="photos/webmail-login.png" width="100" height="100"> <img src="photos/webmail-access-page.png" width="100" height="100">
 - [ ] Gmail--Settings--> Accounts and Import (TAB) --> Add an E-Mail Account --> after username -->port 110 to 995(ssl) hostname auto filled select 2,3rd options
 - [ ] 
 
