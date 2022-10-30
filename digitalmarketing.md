@@ -12,3 +12,4 @@
 
 References
 [Domain Mail To Gmail](https://support.google.com/mail/answer/6304825?ctx=gmail&hl=en-GB&authuser=0)
+[Hostinger To Gmail](https://www.hostinger.in/tutorials/email/how-to-set-up-gmail-for-your-own-domain)
