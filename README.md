@@ -32,5 +32,10 @@ For the above method minimum requirement are as follows
 
 Tools
 - [ ] Google analytics
+- [ ] SEO
 - [ ] 
 
+SEO
+Types<br>
+Tactics<br>
+Tools<br>
