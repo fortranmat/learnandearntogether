@@ -32,18 +32,18 @@ For the above method minimum requirement are as follows
 
 Tools |Content Creation
 |----|-----|
-- [ ] Google analytics 
-- [ ] SEO
-- [ ] [Worlometer](https://www.worldometers.info/)
-- [ ] [Live internet status](https://www.internetlivestats.com/)
-- [ ] [List of Search Engine](https://en.wikipedia.org/wiki/List_of_search_engines)
+- [ ] Google analytics |- [ ] Google keyword planner (google ads acc needed) choose high volume low competion keyworf
+- [ ] SEO |- [ ] Search that keyword in google and find related serch at botton note
+- [ ] [Worlometer](https://www.worldometers.info/) | - [ ] Use google trends type different keyword inculding LONG tail one and choose location and time see the result
+- [ ] [Live internet status](https://www.internetlivestats.com/)|- [ ] 
+- [ ] [List of Search Engine](https://en.wikipedia.org/wiki/List_of_search_engines) |
 - [ ] |
 
 
-- [ ] Google keyword planner (google ads acc needed) choose high volume low competion keyworf
-- [ ] Search that keyword in google and find related serch at botton note
-- [ ] Use google trends type different keyword inculding LONG tail one and choose location and time see the result
-- [ ] 
+
+
+
+
 SEO
 Types (White Black Grey) (Onpage-Content Offpage-Brandpromotion,backlink Technical-<br>
 Tactics<br>
