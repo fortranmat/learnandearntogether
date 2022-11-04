@@ -32,7 +32,9 @@ For the above method minimum requirement are as follows
 
 Tools |Content Creation
 |----|-----|
-- [ ] Google analytics <br> - [ ] SEO  
+
+- [ ] Google analytics
+- [ ] SEO  
 - [ ] [Worlometer](https://www.worldometers.info/) | 
 - [ ] [Live internet status](https://www.internetlivestats.com/)
 - [ ] [List of Search Engine](https://en.wikipedia.org/wiki/List_of_search_engines)
@@ -44,7 +46,5 @@ Tools |Content Creation
 
 
 
-SEO
-Types (White Black Grey) (Onpage-Content Offpage-Brandpromotion,backlink Technical-<br>
-Tactics<br>
-Tools<br>
+SEO |SEO Tools
+Types (White Black Grey) (Onpage-Content Offpage-Brandpromotion,backlink Technical-<br> Tactics<br>Tools<br> | kwfinder, moz, google ads, rank tracker
