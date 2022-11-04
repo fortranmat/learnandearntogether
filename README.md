@@ -33,9 +33,17 @@ For the above method minimum requirement are as follows
 Tools
 - [ ] Google analytics
 - [ ] SEO
+- [ ] [Worlometer](https://www.worldometers.info/)
+- [ ] [Live internet status](https://www.internetlivestats.com/)
+- [ ] [List of Search Engine](https://en.wikipedia.org/wiki/List_of_search_engines)
 - [ ] 
 
+Content Creation
+- [ ] Google keyword planner (google ads acc needed) choose high volume low competion keyworf
+- [ ] Search that keyword in google and find related serch at botton note
+- [ ] Use google trends type different keyword inculding LONG tail one and choose location and time see the result
+- [ ] 
 SEO
-Types<br>
+Types (White Black Grey) (Onpage-Content Offpage-Brandpromotion,backlink Technical-<br>
 Tactics<br>
 Tools<br>
