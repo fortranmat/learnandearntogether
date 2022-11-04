@@ -47,4 +47,5 @@ Tools |Content Creation
 
 
 SEO |SEO Tools
+|----|----|
 Types (White Black Grey) (Onpage-Content Offpage-Brandpromotion,backlink Technical-<br> Tactics<br>Tools<br> | kwfinder, moz, google ads, rank tracker
