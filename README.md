@@ -32,7 +32,7 @@ For the above method minimum requirement are as follows
 
 Tools |Content Creation
 |----|-----|
-- [ ] Google analytics <br>- [ ] SEO  
+- [ ] Google analytics <br> - [ ] SEO  
 - [ ] [Worlometer](https://www.worldometers.info/) | 
 - [ ] [Live internet status](https://www.internetlivestats.com/)
 - [ ] [List of Search Engine](https://en.wikipedia.org/wiki/List_of_search_engines)
