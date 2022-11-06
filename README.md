@@ -1,5 +1,13 @@
 # learn-and-earn-together
 This Is Public repo
+# VISION
+Customers/Users are not searching for your site. They are searching for valuable information to solve their problems. 
+So figruing out customer search is step ONE.
+
+## General
+Users serach for easy money, love failures, sex relationship, health, obisity, education, science etc
+
+
 ## How To Earn Online
 😺Affiliate Marketing, Adsense, SaaS, Freelancing, Social Media Influencer<br/>
 For the above method minimum requirement are as follows
